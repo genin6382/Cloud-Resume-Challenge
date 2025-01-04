@@ -239,9 +239,6 @@ img {
   row-gap: 2rem;
   text-align: center;
 }
-.about__subtitle {
-  margin-bottom: var(--mb-2);
-}
 .about__img {
   justify-self: center;
 }
